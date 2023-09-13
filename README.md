@@ -12,7 +12,7 @@
 
 📝 I regularly write articles on **[https://hazelturan78.medium.com](https://medium.com/@hazelturan78)**
 
-💭 Ask me about **Testing, iOS, Web, MobileWeb, Marketing, A/B**
+💭 Ask me about **Testing, iOS, Android, Web, MobileWeb, Marketing, A/B**
 
 📬 How to reach me **hazelturan78@gmail.com**
 
