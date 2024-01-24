@@ -1,5 +1,5 @@
 <h1 align="center">Hello, It's Hazel 🙏 </h1>
-<h3 align="center">Senior Software Quality Assurance Engineer at Trendyol Group</h3>
+<h3 align="center">Senior Software Developer in Test at Trendyol Group</h3>
 
 👩‍💻 I’m currently working on **Trendyol iOS App Testing**
 
